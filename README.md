@@ -1,12 +1,12 @@
-Sic Assembler
+SIC/XE Assembler
 ==========================
 
-Software Development Environmet:
+Software Development Environment
 ------------------------------------
 (1) Microsoft Window 9x OS </br>
 (2) Microsoft Visual C++ v6.0
 
-Instructions:
+Instructions
 ------------------------------------
 (1) Make sure sic.asm and sic.exe are in the same folder </br>
 (2) Excute cmd.exe </br>
