@@ -1,0 +1,8 @@
+LAB3     START   1000
+FIRST    LDA     ALPHA
+         MUL     TEN
+         STA     GAMMA
+ALPHA    RESW    1
+TEN      WORD    10
+GAMMA    RESW    1
+         END     FIRST 

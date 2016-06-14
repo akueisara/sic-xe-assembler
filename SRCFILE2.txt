@@ -1,0 +1,12 @@
+LAB3     START   1000
+FIRST    LDA     ALPHA
+         ADD     BETA
+         SUB     ONE
+         ADD     DELTA
+         STA     GAMMA
+ALPHA    RESW    1
+ONE      WORD    1
+GAMMA    RESW    1
+BETA     RESW    1
+DELTA    RESW    1
+         END     FIRST 
